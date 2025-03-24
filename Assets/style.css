@@ -14,3 +14,9 @@ align-items: center;
 max-width: 100%;
 color: white;
 }
+
+a {
+
+    text-decoration-line: none;
+
+}
