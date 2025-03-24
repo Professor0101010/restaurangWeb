@@ -18,5 +18,24 @@ color: white;
 a {
 
     text-decoration-line: none;
+    color: orange;
+
+}
+
+.meny {
+
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+
+}
+
+.meny a:hover {
+
+color: white;
+
+
 
 }
